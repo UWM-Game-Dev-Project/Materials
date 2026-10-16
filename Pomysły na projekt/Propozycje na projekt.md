@@ -1,7 +1,5 @@
-#
+# Pomysły na projekty
 
-
-    # Pomysły na projekty
 ## Wzór na kolejne opcje
 ```
 ## Opcja 0 — [roboczy tytuł]
