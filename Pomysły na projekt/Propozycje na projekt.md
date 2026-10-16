@@ -31,3 +31,11 @@
 - **Wyróżnik:** wydaje się łątwe i szybkie w realizacji
 - **Pierwsza grywalna wersja:** Wybieranie postaci drużyna po 4-6-7 max postaci w zależności w co celujemy, 7 postanie mogło by wyrużniać ją. Czyli chodzą po mapie ale można wybrać pod kilka postaci do organizacji noszenia bagarzy i mechanika udźwigu
 - **Do sprawdzenia:** Nie wybranie przez Zespół ;)
+
+
+## Opcja 4 — [RimLive]
+- **Pitch:** Rimworld z nastawieniem na przebywanie na mapie, a nie tworzenie całego świata.
+- **Pętla rozgrywki:** gra story telingowa, nastawienie na tworzenie historia przez gracza, w miarę rozbudowane mechaniki, nastawienie na wspulnotę/grupę. 
+- **Wyróżnik:** Samemu można storzyć własne scenariusze i daje dowolność
+- **Pierwsza grywalna wersja:** Mapa od 100x100 do 400x400, może nawet 1000x1000. skupienie się na tym aby w miarę często coś się działo wydażenia itd.
+- **Do sprawdzenia:** zakres funkcjinalności, możliwości, technologi. w skrócie overkill żeczu do realizacji. W szczególności jeśli by odziaływały na siebie 
